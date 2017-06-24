@@ -1,3 +1,1 @@
-Hello world!
-
-It works!
+# Hello world
