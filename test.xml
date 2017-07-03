@@ -1,0 +1,306 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://www.sql-join.com/what-is-sql-join</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2016-12-19</lastmod>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/5732257f62cd9460fe9ba2b6/574762ed2eeb8175e6942d1e/1464296183284/</image:loc>
+      <image:title>SQL Joins Explained</image:title>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/sql-join-types</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-12-19</lastmod>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/57322598e32140d252ff03c6/5744bd97d210b89c3e15a61f/1464122780890/</image:loc>
+      <image:title>SQL Join Types</image:title>
+      <image:caption>Select all records from Table A and Table B, where the join condition is met.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/57322598e32140d252ff03c6/5744be65c6fc08b3af1b0fbd/1464122985024/</image:loc>
+      <image:title>SQL Join Types</image:title>
+      <image:caption>Select all records from Table A and Table B, regardless of whether the join condition is met or not.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/57322598e32140d252ff03c6/5744bd78d210b89c3e15a4a9/1464122755467/</image:loc>
+      <image:title>SQL Join Types</image:title>
+      <image:caption>Select all records from Table B, along with records from Table A for which the join condition is met (if at all).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/57322598e32140d252ff03c6/5744bdad40261de572cbbc49/1464122809233/</image:loc>
+      <image:title>SQL Join Types</image:title>
+      <image:caption>Select all records from Table A, along with records from Table B for which the join condition is met (if at all).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/57322598e32140d252ff03c6/5744bcf3e321402cfdfa7128/1464122619821/</image:loc>
+      <image:title>SQL Join Types</image:title>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/preparing-data</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-12-19</lastmod>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573225afe32140d252ff04bb/573b7f23859fd035e16e6f68/1463517002463/</image:loc>
+      <image:title>Preparing Data</image:title>
+      <image:caption>ETL process overview</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/salesforce</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-10</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/salesforce-1</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-10</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/data-sources</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-12-19</lastmod>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a2f6c27d4bd7652711339/1463518601872/logo-facebook-ads1.png</image:loc>
+      <image:title>Data Sources - Facebook Ads</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a2fd0f85082537e8b0b4d/1463517193788/logo-google-analytics1.png</image:loc>
+      <image:title>Data Sources - Google Analytics</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a305fcf80a1091eb2406c/1463517517255/logo-heroku1.png</image:loc>
+      <image:title>Data Sources - Heroku</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a305f01dbaebd8422e35d/1463517534180/logo-hubspot-04.png</image:loc>
+      <image:title>Data Sources - Hubspot</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306401dbaebd8422e3ab/1463517555311/logo-intercom-04.png</image:loc>
+      <image:title>Data Sources - Intercom</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3064cf80a1091eb240a4/1463518740310/logo-jira-04.png</image:loc>
+      <image:title>Data Sources - Jira</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3064cf80a1091eb240a7/1463517591768/logo-magento1.png</image:loc>
+      <image:title>Data Sources - Magento</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306401dbaebd8422e3b0/1463517613084/logo-mailchimp1.png</image:loc>
+      <image:title>Data Sources - MailChimp</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3064cf80a1091eb240aa/1463517630275/logo-mandrill-04.png</image:loc>
+      <image:title>Data Sources - Mandrill</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306501dbaebd8422e3b7/1463517670865/logo-marketo-04.png</image:loc>
+      <image:title>Data Sources - Marketo</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306501dbaebd8422e3ba/1463517727762/logo-mixpanel-04.png</image:loc>
+      <image:title>Data Sources - Mixpanel</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3065cf80a1091eb240bb/1463671011797/logo-netsuite-04.png</image:loc>
+      <image:title>Data Sources - Netsuite</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3065cf80a1091eb240be/1463671011637/logo-quickbooks-04.png</image:loc>
+      <image:title>Data Sources - Quickbooks</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306601dbaebd8422e3ee/1463671011760/logo-recurly1.png</image:loc>
+      <image:title>Data Sources - Recurly</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3066cf80a1091eb240c2/1463671011761/logo-salesforce-desk1.png</image:loc>
+      <image:title>Data Sources - Desk.com</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306601dbaebd8422e3f3/1463671011826/logo-salesforce-pardot1.png</image:loc>
+      <image:title>Data Sources - Salesforce Pardot</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3066d210b8433ab2da96/1463671011756/logo-salesforce1.png</image:loc>
+      <image:title>Data Sources - Salesforce</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3066cf80a1091eb240c6/1463671011827/logo-shopify1.png</image:loc>
+      <image:title>Data Sources - Shopify</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a30664c2f855f91383a45/1463671011883/logo-square-04.png</image:loc>
+      <image:title>Data Sources - Square</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a3066d210b8433ab2da99/1463671011887/logo-stripe1.png</image:loc>
+      <image:title>Data Sources - Stripe</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306745bf21ac383a6e1b/1463671011778/logo-trello1.png</image:loc>
+      <image:title>Data Sources - Trello</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306b45bf21ac383a6e5a/1463671011893/logo-zendesk1.png</image:loc>
+      <image:title>Data Sources - Zendesk</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306bf699bb3934f80064/1463671011958/logo-zopim-04.png</image:loc>
+      <image:title>Data Sources - Zopim</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a306ccf80a1091eb24147/1463671012495/logo-zuora-04.png</image:loc>
+      <image:title>Data Sources - Zuora</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a307701dbaebd8422e4ac/1463517157273/logo-google-adwords1.png</image:loc>
+      <image:title>Data Sources - Google Adwords</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a31f6d51cd413a71ee6f2/1463518221665/google-ecommerce.png</image:loc>
+      <image:title>Data Sources - Google Ecommerce</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573a326e20c6477127b1d831/1463671011871/logo-quickbooks-04.png</image:loc>
+      <image:title>Data Sources - Quickbooks</image:title>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://static1.squarespace.com/static/5732253c8a65e244fd589e4c/573a273fcf80a1091eb1dbf9/573dda3f7da24f0f1375b75e/1463671386753/twitter+ads.png</image:loc>
+      <image:title>Data Sources - Twitter Ads</image:title>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/mysql</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/amazon-aurora</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/desk</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/facebook-ads-1</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/google-adwords</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/google-analytics</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/google-cloud-sql</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/google-ecommerce</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/heroku</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/hubspot</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/intercom</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/jira</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/magento</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/mailchimp</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-05-16</lastmod>
+  </url>
+  <url>
+    <loc>http://www.sql-join.com/enrolled</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2016-12-19</lastmod>
+  </url>
+</urlset>
+
